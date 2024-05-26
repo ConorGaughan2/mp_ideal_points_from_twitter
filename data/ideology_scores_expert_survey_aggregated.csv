@@ -1,0 +1,56 @@
+Name,Group,Minimum,Maximum,Mean,Std Deviation,Variance,Count
+Anneliese Dodds,MP,3,6,4.25,0.73,0.54,63
+Bell Ribeiro-Addy,MP,1,5,2.62,1.03,1.06,34
+Ben Wallace,MP,7,10,8.38,0.7,0.49,63
+Boris Johnson,MP,6,10,8.38,0.82,0.68,68
+Caroline Lucas,MP,1,9,2.69,1.19,1.42,68
+Chris Bryant,MP,2,6,4.37,0.87,0.77,60
+Desmond Swayne,MP,8,11,9.76,0.85,0.72,45
+Diane Abbott,MP,1,7,2.25,1.05,1.1,68
+Edward Davey,MP,4,7,5.78,0.75,0.57,65
+Ed Miliband,MP,2,7,3.9,0.9,0.81,67
+Hilary Benn,MP,3,7,4.41,0.92,0.85,66
+Ian Lavery,MP,1,5,2.35,0.99,0.98,40
+Jacob Rees-Mogg,MP,9,11,10.04,0.71,0.51,69
+Jeremy Corbyn,MP,1,4,1.67,0.76,0.57,69
+John McDonnell,MP,1,3,1.84,0.72,0.53,67
+John Redwood,MP,7,11,10.11,0.72,0.51,63
+Kemi Badenoch,MP,8,11,9.58,0.79,0.63,67
+Keir Starmer,MP,3,8,4.81,0.89,0.79,69
+Lisa Nandy,MP,3,7,4.17,0.81,0.66,65
+Matthew Hancock,MP,7,10,8.06,0.81,0.65,67
+Priti Patel,MP,8,11,9.85,0.73,0.54,68
+Rishi Sunak,MP,7,11,8.58,0.89,0.79,69
+Steven Baker,MP,4,11,9.63,1.03,1.06,63
+Stuart Andrew,MP,4,11,8,1.65,2.73,11
+Suella Braverman,MP,9,11,10.22,0.68,0.47,68
+Theresa May,MP,7,10,8.07,0.71,0.51,68
+Tim Farron,MP,4,8,5.79,1.02,1.03,67
+Thomas Tugendhat,MP,7,10,7.82,0.81,0.66,62
+Yvette Cooper,MP,3,7,4.62,0.79,0.63,66
+Zarah Sultana,MP,1,5,2.07,0.98,0.95,45
+Conservative,Party,7,11,8.71,0.71,0.5,68
+Labour,Party,2,7,4.5,0.78,0.6,68
+SNP,Party,2,8,4.29,0.97,0.94,68
+Liberal Democrats,Party,4,7,5.74,0.74,0.55,68
+Green,Party,1,6,2.96,0.97,0.94,67
+Reform,Party,5,11,10.05,0.94,0.89,55
+Plaid Cymru,Party,2,8,3.95,1.1,1.2,64
+Alba,Party,2,11,5.24,2.38,5.65,38
+SDLP,Party,1,6,4.31,0.92,0.84,48
+DUP,Party,6,11,9.67,1.05,1.09,55
+Sinn Fein,Party,1,5,2.96,0.86,0.74,51
+Alliance,Party,3,6,5.38,0.7,0.48,48
+BBC,Media,4,9,5.98,0.8,0.64,64
+ITV,Media,4,8,6.17,0.73,0.54,60
+Sky,Media,4,9,6.59,0.88,0.77,61
+The Daily Express,Media,7,11,9.74,0.88,0.78,65
+The Daily Mail,Media,8,11,9.91,0.72,0.51,65
+The Daily Mirror,Media,1,9,3.88,1.16,1.34,65
+The Daily Telegraph,Media,7,11,9.53,0.84,0.7,66
+The Financial Times,Media,4,10,6.71,1.19,1.41,63
+The Guardian,Media,2,6,3.86,0.8,0.63,66
+The Huffington Post,Media,2,8,4.59,1.13,1.27,41
+The Independent,Media,3,7,4.96,1.08,1.16,57
+The Sun,Media,6,11,9.02,0.91,0.83,64
+The Times,Media,6,11,8.02,1.07,1.14,64
